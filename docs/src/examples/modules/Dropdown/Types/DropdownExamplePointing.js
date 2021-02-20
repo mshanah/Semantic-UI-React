@@ -11,7 +11,7 @@ const DropdownExamplePointing = () => (
           <Dropdown text='Clothing'>
             <Dropdown.Menu>
               <Dropdown.Header>Mens</Dropdown.Header>
-              <Dropdown.Item>Shirts</Dropdown.Item>
+              <Dropdown.Item>Shirtsdfgdfgsdgfsdgfsgdgsgssdfg</Dropdown.Item>
               <Dropdown.Item>Pants</Dropdown.Item>
               <Dropdown.Item>Jeans</Dropdown.Item>
               <Dropdown.Item>Shoes</Dropdown.Item>
